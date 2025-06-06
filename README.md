@@ -1,3 +1,4 @@
+<HEAD
 # API REST To-Do List
 
 API REST développée avec NodeJS, Express et MongoDB pour la gestion d'une liste de tâches (To-Do list).
@@ -46,3 +47,7 @@ MONGODB_URI=mongodb://localhost:27017/todo-list
 JWT_SECRET=votre_secret_jwt_super_securise
 NODE_ENV=development
 ```
+
+# todo-list-api-groupe-1
+Developpement backend
+d5a5ceea9aedd23f5282d4ac267a783cb102927f
